@@ -27,4 +27,4 @@ docker-compose up -d --build
 
 # 3. Open Airflow UI
 # Visit http://localhost:8080
-# Username: airflow | Password: airflow
+# Username: admin | Password: mypassword
