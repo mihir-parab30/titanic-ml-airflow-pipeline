@@ -28,3 +28,20 @@ docker-compose up -d --build
 # 3. Open Airflow UI
 # Visit http://localhost:8080
 # Username: admin | Password: mypassword
+```
+## 📸 Screenshots
+
+### Airflow DAGs List
+![Airflow DAGs List](screenshots/airflow_dag_list.png)
+
+### Titanic DAG Details
+![Titanic DAG Details](screenshots/titanic_dag_details.png)
+
+### DAG Graph View
+![DAG Graph](screenshots/titanic_dag_graph.png)
+
+### Logs Showing Model Accuracy
+![Evaluation Logs](screenshots/titanic_dag_logs.png)
+
+### Running Containers
+![Docker ps output](screenshots/docker_ps.png)
