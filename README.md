@@ -1,3 +1,14 @@
+# ⚠️ This repository has been archived
+
+**New Location:** This project is now part of my consolidated [MLOps Portfolio](https://github.com/mihir-parab30/MLOps-Portfolio)
+
+👉 **View this project:** [MLOps-Portfolio/01-ml-pipelines/titanic-airflow](https://github.com/mihir-parab30/MLOps-Portfolio/tree/main/01-ml-pipelines/titanic-airflow)
+
+All future updates will be made in the portfolio repository.
+
+---
+
+
 # 🚀 Titanic Survival Prediction Pipeline with Apache Airflow & Docker
 
 This project automates a **machine learning workflow** for the Titanic dataset using **Apache Airflow** orchestrated inside Docker.
